@@ -23,6 +23,11 @@ MOXελ aims to provide a **simple and fast interface to generate energy voxels 
 a ML-ready format**, minimizing as much as possible the time spent on these
 preprocessing steps.
 
+> [!CAUTION]
+> **This is not the official repository and it is not guaranteed to be maintained**.
+>
+> For the official 👉 https://github.com/adosar/moxel.
+
 ## ⚙️  Installation
 It is strongly recommended to **perform the installation inside a virtual environment**.
 
